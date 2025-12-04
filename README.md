@@ -11,4 +11,4 @@ Hints:
 
 Course Concepts:
 
-The course has taught us linux commands and why they are so powerful. Going through this ctf, this should be a reminder of the linux commands. As well, we have learned how to access different machines via ssh. There are security risks of why it shouldnt be essy to access different machines.
+The course has taught us linux commands and why they are so powerful. Going through this ctf, this should be a reminder of the linux commands. As well, we have learned how to access different machines via ssh. There are security risks of why it shouldn't be easy to access different machines on a network.
